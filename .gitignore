@@ -1,7 +1,20 @@
+# System files
+# MacOS
 .DS_Store
+# Windows
 Thumbs.db
-db.json
-*.log
+
+# IDE configuration files
+.idea/
+.vscode/
+
+# Node.js
 node_modules/
+
+# Hexo files
+db.json
 public/
 .deploy*/
+
+# log files
+*.log
